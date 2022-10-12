@@ -5,6 +5,6 @@ public class EmployeeMain extends EmployeeSalary {
         EmployeePresent();
         DailyWage();
         PartTime();
-        WagesForMonth();
+        WagesForMonthAndHRS();
     }
 }
